@@ -1,7 +1,7 @@
-WorklightStore
+JSONStore
 ==============
 
-A dojo/store implementation for IBM Worklight.  It makes use of JSONStore as a native cache where possible.
+A dojo/store implementation for IBM Worklight.  It makes use of Worklight's JSONStore as a native cache where possible.
 
 The store treats the server as the master store, with the local cache only referenced if a connection to the backend is not possible.
 

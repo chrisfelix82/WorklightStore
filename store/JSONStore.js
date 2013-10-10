@@ -12,7 +12,7 @@ define([
 	var MODULE = module.id;
 	return declare([Stateful],{
 		/**
-		 * @memberOf WorklightStore
+		 * @memberOf JSONStore
 		 */
 		
 		
