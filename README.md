@@ -86,3 +86,8 @@ store.set("removeBackend",lang.hitch(this,function(id){
 
 
 ```
+
+## Licensing
+
+This project is distributed by the Dojo Foundation and licensed under the ["New" BSD License](https://github.com/ibm-dojo/dcordova/blob/master/LICENSE).
+All contributions require a [Dojo Foundation CLA](http://dojofoundation.org/about/claForm).
