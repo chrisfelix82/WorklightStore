@@ -1,3 +1,5 @@
+## Please note that this project is no longer being maintained.  It has been moved to https://github.com/ibm-dojo/dworklight store component
+
 JSONStore
 ==============
 
